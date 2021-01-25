@@ -37,4 +37,4 @@ Using the student funding, and math and reading scores, we were able to output t
 During our analysis, it was brought to our attention that the ninth grade reading and math scores were not accurate for Thomas High School. Therefore, we replaced all the ninth grade scores for this school with NaN values. By doing this, the results we produced were slightly reduced due to Thomas High School only reflecting results for grades 10 to 12.
 
 ## Summary
-While the school standings remain the same, the data we output fails to reflect the full picture as we needed to clean the data received from Thomas High School. As a result, reading, math and overall scores, as well as per student budgets, are slightly inacurate. We also do not have the the full picture if we choose to analyze performance trends for 9th graders.
+While the school standings remain the same, the data we output fails to reflect the full picture as we needed to clean the data received from Thomas High School. As a result, reading, math and overall scores are slightly inacurate. We also do not have the the full picture if we choose to analyze performance trends for 9th graders.
